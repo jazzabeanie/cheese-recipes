@@ -1,10 +1,192 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cheese-recipes",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "recipes/saturated_brine.html#ingredients",
+    "href": "recipes/saturated_brine.html#ingredients",
+    "title": "Saturated Brine Solution",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n\n1 fresh raw egg (for testing density)\n2L non-chlorinated water\n450g non-iodised salt (225g/L)\n2T white vinegar (I assume normal strength)\n1t (5ml) calcium chloride solution"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
+    "href": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
+    "title": "Saturated Brine Solution",
+    "section": "Put the water into a saucepan",
+    "text": "Put the water into a saucepan\n\ncan warm the water to help the salt disolve"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#add-the-egg",
+    "href": "recipes/saturated_brine.html#add-the-egg",
+    "title": "Saturated Brine Solution",
+    "section": "Add the egg",
+    "text": "Add the egg"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
+    "href": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
+    "title": "Saturated Brine Solution",
+    "section": "Add the salt (non-iodised) until the egg floats",
+    "text": "Add the salt (non-iodised) until the egg floats\n\nAdd more salt if you want it more salty"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
+    "href": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
+    "title": "Saturated Brine Solution",
+    "section": "move the brine to a container and allow to cool",
+    "text": "move the brine to a container and allow to cool\n\nget out the calcium chloride, vinegar, teaspoon, and tablespoon"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
+    "href": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
+    "title": "Saturated Brine Solution",
+    "section": "Stir in 1t calcium chloride (5ml)",
+    "text": "Stir in 1t calcium chloride (5ml)"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#stir-in-2t-vinegar",
+    "href": "recipes/saturated_brine.html#stir-in-2t-vinegar",
+    "title": "Saturated Brine Solution",
+    "section": "Stir in 2T vinegar",
+    "text": "Stir in 2T vinegar"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
+    "href": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
+    "title": "Saturated Brine Solution",
+    "section": "Store in cheese cave or fridge",
+    "text": "Store in cheese cave or fridge"
+  },
+  {
+    "objectID": "recipes/cantal.html#ingredients",
+    "href": "recipes/cantal.html#ingredients",
+    "title": "Cantal",
+    "section": "Ingredients",
+    "text": "Ingredients\nYield: 2 pounds\n\n\n9L full cream pasteuirzed milk\n1/4 t of Mesophilic Culture, or 4 T mesophilic mother culture\n2.5ml (1/2 t) liquid rennet in 1/4 cup non-chlorinated water (or 1/4 rennet table)\n2 T kosher salt\ncheese mold\ncheese cloth\ncheese box\ncolander\nlarge bowl for whey\nlarge bowl for mixing in salt\nweights"
+  },
+  {
+    "objectID": "recipes/cantal.html#heat-milk-to-30c",
+    "href": "recipes/cantal.html#heat-milk-to-30c",
+    "title": "Cantal",
+    "section": "Heat milk to (30C)",
+    "text": "Heat milk to (30C)\n\n1/4 t of Mesophilic Culture, or 4 T mesophilic mother culture\nprepare 2.5ml (1/2 t) liquid rennet in 1/4 cup non-chlorinated water"
+  },
+  {
+    "objectID": "recipes/cantal.html#sprinkle-on-mesophilic-culture-leave-for-2-mins",
+    "href": "recipes/cantal.html#sprinkle-on-mesophilic-culture-leave-for-2-mins",
+    "title": "Cantal",
+    "section": "Sprinkle on mesophilic culture, leave for 2 mins",
+    "text": "Sprinkle on mesophilic culture, leave for 2 mins"
+  },
+  {
+    "objectID": "recipes/cantal.html#stir-cover-and-ripen-for-15-mins-at-30c",
+    "href": "recipes/cantal.html#stir-cover-and-ripen-for-15-mins-at-30c",
+    "title": "Cantal",
+    "section": "Stir, cover, and ripen for 15 mins at 30C",
+    "text": "Stir, cover, and ripen for 15 mins at 30C"
+  },
+  {
+    "objectID": "recipes/cantal.html#add-rennet-and-stir-for-1-minute",
+    "href": "recipes/cantal.html#add-rennet-and-stir-for-1-minute",
+    "title": "Cantal",
+    "section": "Add rennet and stir for 1 minute",
+    "text": "Add rennet and stir for 1 minute"
+  },
+  {
+    "objectID": "recipes/cantal.html#cover-and-keep-at-30c-for-1-hour-or-until-clean-break",
+    "href": "recipes/cantal.html#cover-and-keep-at-30c-for-1-hour-or-until-clean-break",
+    "title": "Cantal",
+    "section": "Cover, and keep at 30C for 1 hour or until clean break",
+    "text": "Cover, and keep at 30C for 1 hour or until clean break"
+  },
+  {
+    "objectID": "recipes/cantal.html#cut-curds-into-14-inch-cubes",
+    "href": "recipes/cantal.html#cut-curds-into-14-inch-cubes",
+    "title": "Cantal",
+    "section": "Cut curds into 1/4 inch cubes",
+    "text": "Cut curds into 1/4 inch cubes\n\nUse a wisk to cut pieces you miss"
+  },
+  {
+    "objectID": "recipes/cantal.html#let-sit-covered-for-5-mins",
+    "href": "recipes/cantal.html#let-sit-covered-for-5-mins",
+    "title": "Cantal",
+    "section": "Let sit (covered) for 5 mins",
+    "text": "Let sit (covered) for 5 mins"
+  },
+  {
+    "objectID": "recipes/cantal.html#pour-curds-and-whey-through-a-cheese-cloth-lined-colander",
+    "href": "recipes/cantal.html#pour-curds-and-whey-through-a-cheese-cloth-lined-colander",
+    "title": "Cantal",
+    "section": "Pour curds and whey through a cheese cloth lined colander",
+    "text": "Pour curds and whey through a cheese cloth lined colander\n\nkeep warm while it drain (about 20 mins)"
+  },
+  {
+    "objectID": "recipes/cantal.html#break-curds-into-several-pieces-and-put-into-a-cheese-basket-lined-with-cheese-cloth",
+    "href": "recipes/cantal.html#break-curds-into-several-pieces-and-put-into-a-cheese-basket-lined-with-cheese-cloth",
+    "title": "Cantal",
+    "section": "Break curds into several pieces and put into a cheese basket lined with cheese cloth",
+    "text": "Break curds into several pieces and put into a cheese basket lined with cheese cloth"
+  },
+  {
+    "objectID": "recipes/cantal.html#press-at-2.4-4.5kg-for-12-hours",
+    "href": "recipes/cantal.html#press-at-2.4-4.5kg-for-12-hours",
+    "title": "Cantal",
+    "section": "Press at 2.4-4.5kg for 12 hours",
+    "text": "Press at 2.4-4.5kg for 12 hours"
+  },
+  {
+    "objectID": "recipes/cantal.html#flip-and-press-for-12-more-hours",
+    "href": "recipes/cantal.html#flip-and-press-for-12-more-hours",
+    "title": "Cantal",
+    "section": "Flip and press for 12 more hours",
+    "text": "Flip and press for 12 more hours\n\nat same weight (2.4-4.5kg)."
+  },
+  {
+    "objectID": "recipes/cantal.html#in-a-large-bowl-mill-break-up-the-cheese-into-1-inch-pieces.",
+    "href": "recipes/cantal.html#in-a-large-bowl-mill-break-up-the-cheese-into-1-inch-pieces.",
+    "title": "Cantal",
+    "section": "In a large bowl, mill (break up) the cheese into 1-inch pieces.",
+    "text": "In a large bowl, mill (break up) the cheese into 1-inch pieces."
+  },
+  {
+    "objectID": "recipes/cantal.html#add-2-t-kosher-salt-and-mix-well",
+    "href": "recipes/cantal.html#add-2-t-kosher-salt-and-mix-well",
+    "title": "Cantal",
+    "section": "Add 2 T kosher salt and mix well",
+    "text": "Add 2 T kosher salt and mix well\n\nknead with your fingers"
+  },
+  {
+    "objectID": "recipes/cantal.html#rinse-the-mold-and-cloth",
+    "href": "recipes/cantal.html#rinse-the-mold-and-cloth",
+    "title": "Cantal",
+    "section": "Rinse the mold and cloth",
+    "text": "Rinse the mold and cloth"
+  },
+  {
+    "objectID": "recipes/cantal.html#place-the-cheese-in-the-mold-lined-with-cloth",
+    "href": "recipes/cantal.html#place-the-cheese-in-the-mold-lined-with-cloth",
+    "title": "Cantal",
+    "section": "Place the cheese in the mold lined with cloth",
+    "text": "Place the cheese in the mold lined with cloth"
+  },
+  {
+    "objectID": "recipes/cantal.html#press-at-10-20kg-for-2-3-days",
+    "href": "recipes/cantal.html#press-at-10-20kg-for-2-3-days",
+    "title": "Cantal",
+    "section": "Press at 10-20kg for 2-3 days",
+    "text": "Press at 10-20kg for 2-3 days\n\nflipping every day"
+  },
+  {
+    "objectID": "recipes/cantal.html#remove-and-let-air-try-at-room-temp-for-2-3-days",
+    "href": "recipes/cantal.html#remove-and-let-air-try-at-room-temp-for-2-3-days",
+    "title": "Cantal",
+    "section": "Remove and let air-try at room temp for 2-3 days",
+    "text": "Remove and let air-try at room temp for 2-3 days\n\nflipping every 6 hours"
+  },
+  {
+    "objectID": "recipes/cantal.html#when-dry-to-touch",
+    "href": "recipes/cantal.html#when-dry-to-touch",
+    "title": "Cantal",
+    "section": "When dry to touch",
+    "text": "When dry to touch\n\nAge at 10-13C and 80-85%RH for 3-6 months.\nflip the cheese and wipe the rind with brine twice a week"
   },
   {
     "objectID": "about.html",
@@ -12,5 +194,201 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cheese-recipes",
+    "section": "",
+    "text": "Cantal\nGouda\nSaturated Brine Solution"
+  },
+  {
+    "objectID": "recipes/gouda.html#ingredients",
+    "href": "recipes/gouda.html#ingredients",
+    "title": "Gouda",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n10L full cream milk\n1/8th t (dash) of Mesophilic Culture (MO30)\n2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water\n2.5ml (1/2 t) liquid rennet in 1/4 cup non-chlorinated water\nSaturated Brine Solution\n\ncalcium chloride\nsalt\n\ncheese wax or vacumme bag\nladle\ncontainer for whey\nseive\nbamboo mat for drying"
+  },
+  {
+    "objectID": "recipes/gouda.html#put-milk-on-the-heat-29c",
+    "href": "recipes/gouda.html#put-milk-on-the-heat-29c",
+    "title": "Gouda",
+    "section": "Put milk on the heat (29C)",
+    "text": "Put milk on the heat (29C)\n\nmeasure 1/8th t (dash) of Mesophilic Culture (MO30)\nprepare 2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water\nprepare 2.5ml (1/2 t) liquid rennet in 1/4 cup non-chlorinated water"
+  },
+  {
+    "objectID": "recipes/gouda.html#add-mesophilic-culture",
+    "href": "recipes/gouda.html#add-mesophilic-culture",
+    "title": "Gouda",
+    "section": "Add mesophilic culture",
+    "text": "Add mesophilic culture\n\nalso add a little kifir"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-it-sit-for-a-couple-mins-then-stir-in",
+    "href": "recipes/gouda.html#let-it-sit-for-a-couple-mins-then-stir-in",
+    "title": "Gouda",
+    "section": "Let it sit for a couple mins then stir in",
+    "text": "Let it sit for a couple mins then stir in"
+  },
+  {
+    "objectID": "recipes/gouda.html#stir-calcium-chloride",
+    "href": "recipes/gouda.html#stir-calcium-chloride",
+    "title": "Gouda",
+    "section": "Stir calcium chloride",
+    "text": "Stir calcium chloride\n\nIf using unpasturised milk\n2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water"
+  },
+  {
+    "objectID": "recipes/gouda.html#add-rennet",
+    "href": "recipes/gouda.html#add-rennet",
+    "title": "Gouda",
+    "section": "Add rennet",
+    "text": "Add rennet\n\n2.5ml (1/2 t) liquid rennet in 1/4 cup non-chlorinated water\nstir no more than 1min"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-sit-until-clean-break-30-40-mins",
+    "href": "recipes/gouda.html#let-sit-until-clean-break-30-40-mins",
+    "title": "Gouda",
+    "section": "Let sit until clean break (30-40 mins)",
+    "text": "Let sit until clean break (30-40 mins)\n\nmine took 1h15mins"
+  },
+  {
+    "objectID": "recipes/gouda.html#cut-curds-into-half-inch-cubes",
+    "href": "recipes/gouda.html#cut-curds-into-half-inch-cubes",
+    "title": "Gouda",
+    "section": "Cut curds into half inch cubes",
+    "text": "Cut curds into half inch cubes"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-sit-covered-for-5-mins",
+    "href": "recipes/gouda.html#let-sit-covered-for-5-mins",
+    "title": "Gouda",
+    "section": "Let sit (covered) for 5 mins",
+    "text": "Let sit (covered) for 5 mins\n\nprepare some non-chlorinated water at 60C, at least 3L."
+  },
+  {
+    "objectID": "recipes/gouda.html#stir-for-5-mins",
+    "href": "recipes/gouda.html#stir-for-5-mins",
+    "title": "Gouda",
+    "section": "Stir for 5 mins",
+    "text": "Stir for 5 mins"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-sit-for-5-mins",
+    "href": "recipes/gouda.html#let-sit-for-5-mins",
+    "title": "Gouda",
+    "section": "Let sit for 5 mins",
+    "text": "Let sit for 5 mins\n\nprepare some non-chlorinated water at 60C, at least 3L."
+  },
+  {
+    "objectID": "recipes/gouda.html#using-a-sieve-ladle-out-4-cups-1l-of-whey",
+    "href": "recipes/gouda.html#using-a-sieve-ladle-out-4-cups-1l-of-whey",
+    "title": "Gouda",
+    "section": "Using a sieve, ladle out 4 cups (1L) of whey",
+    "text": "Using a sieve, ladle out 4 cups (1L) of whey\n\nsieve keeps the curds out of the cup."
+  },
+  {
+    "objectID": "recipes/gouda.html#replace-4-cups-of-60c-water",
+    "href": "recipes/gouda.html#replace-4-cups-of-60c-water",
+    "title": "Gouda",
+    "section": "Replace 4 cups of 60C water",
+    "text": "Replace 4 cups of 60C water\n\ntarget temp is 33C."
+  },
+  {
+    "objectID": "recipes/gouda.html#stir-gently-for-10-mins",
+    "href": "recipes/gouda.html#stir-gently-for-10-mins",
+    "title": "Gouda",
+    "section": "Stir gently for 10 mins",
+    "text": "Stir gently for 10 mins"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-settle-for-5-10-mins",
+    "href": "recipes/gouda.html#let-settle-for-5-10-mins",
+    "title": "Gouda",
+    "section": "Let settle for 5-10 mins",
+    "text": "Let settle for 5-10 mins\n\nreduce temp of water to 45C."
+  },
+  {
+    "objectID": "recipes/gouda.html#note-the-level-of-the-whey",
+    "href": "recipes/gouda.html#note-the-level-of-the-whey",
+    "title": "Gouda",
+    "section": "Note the level of the whey",
+    "text": "Note the level of the whey\n\nthere may be a level of curds on the side of the pot."
+  },
+  {
+    "objectID": "recipes/gouda.html#ladle-out-the-whey-to-the-level-of-the-curds",
+    "href": "recipes/gouda.html#ladle-out-the-whey-to-the-level-of-the-curds",
+    "title": "Gouda",
+    "section": "Ladle out the whey to the level of the curds",
+    "text": "Ladle out the whey to the level of the curds"
+  },
+  {
+    "objectID": "recipes/gouda.html#stir-then-add-45c-water-to-the-level-that-the-whey-was",
+    "href": "recipes/gouda.html#stir-then-add-45c-water-to-the-level-that-the-whey-was",
+    "title": "Gouda",
+    "section": "Stir, then add 45C water to the level that the whey was",
+    "text": "Stir, then add 45C water to the level that the whey was\n\ntemperature should be 37C"
+  },
+  {
+    "objectID": "recipes/gouda.html#stir-for-20-mins",
+    "href": "recipes/gouda.html#stir-for-20-mins",
+    "title": "Gouda",
+    "section": "Stir for 20 mins",
+    "text": "Stir for 20 mins\n\ndo we maintain temperature? I think yes"
+  },
+  {
+    "objectID": "recipes/gouda.html#let-rest-for-10-mins",
+    "href": "recipes/gouda.html#let-rest-for-10-mins",
+    "title": "Gouda",
+    "section": "Let rest for 10 mins",
+    "text": "Let rest for 10 mins"
+  },
+  {
+    "objectID": "recipes/gouda.html#drain-out-the-whey-putting-the-curds-into-a-cheese-cloth-lined-mold",
+    "href": "recipes/gouda.html#drain-out-the-whey-putting-the-curds-into-a-cheese-cloth-lined-mold",
+    "title": "Gouda",
+    "section": "Drain out the whey, putting the curds into a cheese cloth lined mold",
+    "text": "Drain out the whey, putting the curds into a cheese cloth lined mold"
+  },
+  {
+    "objectID": "recipes/gouda.html#press-at-10kg-for-30-mins",
+    "href": "recipes/gouda.html#press-at-10kg-for-30-mins",
+    "title": "Gouda",
+    "section": "Press at 10kg for 30 mins",
+    "text": "Press at 10kg for 30 mins"
+  },
+  {
+    "objectID": "recipes/gouda.html#flip-and-press-at-13kg-for-12-hours",
+    "href": "recipes/gouda.html#flip-and-press-at-13kg-for-12-hours",
+    "title": "Gouda",
+    "section": "Flip and press at 13kg for 12 hours",
+    "text": "Flip and press at 13kg for 12 hours"
+  },
+  {
+    "objectID": "recipes/gouda.html#put-into-brine-for-12-hours",
+    "href": "recipes/gouda.html#put-into-brine-for-12-hours",
+    "title": "Gouda",
+    "section": "Put into brine for 12 hours",
+    "text": "Put into brine for 12 hours\n\nflip the cheese half way through\ncan trim off any weird bits first"
+  },
+  {
+    "objectID": "recipes/gouda.html#air-dry-on-bamboo-cheese-mat-for-2-3-days-until-touch-dry",
+    "href": "recipes/gouda.html#air-dry-on-bamboo-cheese-mat-for-2-3-days-until-touch-dry",
+    "title": "Gouda",
+    "section": "Air dry on bamboo cheese mat for 2-3 days until touch dry",
+    "text": "Air dry on bamboo cheese mat for 2-3 days until touch dry\n\nturn at least every day"
+  },
+  {
+    "objectID": "recipes/gouda.html#vacuum-seal",
+    "href": "recipes/gouda.html#vacuum-seal",
+    "title": "Gouda",
+    "section": "vacuum seal",
+    "text": "vacuum seal"
+  },
+  {
+    "objectID": "recipes/gouda.html#mature-at-10-12c-for-at-least-6-weeks",
+    "href": "recipes/gouda.html#mature-at-10-12c-for-at-least-6-weeks",
+    "title": "Gouda",
+    "section": "mature at 10-12C for at least 6 weeks",
+    "text": "mature at 10-12C for at least 6 weeks"
   }
 ]
