@@ -1,0 +1,37 @@
+---
+title: "Saturated Brine Solution"
+author: "Gavin Webber"
+format: revealjs
+---
+
+## Ingredients
+
+::: {style="font-size:0.8em"}
+
+- 1 fresh raw egg (for testing density)
+- 2L non-chlorinated water
+- 450g non-iodised salt (225g/L)
+- 2T white vinegar (I assume normal strength)
+- 1t (5ml) calcium chloride solution
+
+:::
+
+## Put the water into a saucepan
+
+- can warm the water to help the salt disolve
+
+## Add the egg
+
+## Add the salt (non-iodised) until the egg floats
+
+- Add more salt if you want it more salty
+
+## move the brine to a container and allow to cool
+
+- get out the calcium chloride, vinegar, teaspoon, and tablespoon
+
+## Stir in 1t calcium chloride (5ml)
+
+## Stir in 2T vinegar
+
+## Store in cheese cave or fridge
