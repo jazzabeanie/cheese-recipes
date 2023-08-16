@@ -1,0 +1,9 @@
+---
+title: "Gruyere"
+author: "Gavin Webber"
+format: 
+  revealjs:
+    incremental: false
+---
+
+# https://youtu.be/Oi2y4Ymrd5A
