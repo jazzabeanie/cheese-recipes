@@ -2,7 +2,7 @@
 title: "Cheese-recipes"
 ---
 
-- [Cantal](./recipes/cantal.html)
+- [Gruyere](./recipes/gruyere.qmd)
+- [Cantal](./recipes/cantal.qmd)
 - [Gouda](./recipes/gouda.qmd)
 - [Saturated Brine Solution](./recipes/saturated_brine.qmd)
-

@@ -1,10 +1,18 @@
 ---
 title: "Gruyere"
-author: "Gavin Webber - https://youtu.be/Oi2y4Ymrd5A"
+author: "Gavin Webber - [https://youtu.be/Oi2y4Ymrd5A](https://youtu.be/Oi2y4Ymrd5A)"
 format: 
   revealjs:
     incremental: false
 ---
+
+# Time required:
+
+- 2 hours until 1th 1 hour or stirring
+- 3 hours until the 1 hour press
+- 4 hours until the 12 hours press
+- then 10 hours of brining
+- 2-3 days of air drying
 
 # Ingredients
 
@@ -15,6 +23,10 @@ format:
 - saturated brine solution
 
 # Heat milk to 32C
+
+- measure out:
+  - 2.5ml (1/2 t) liquid rennet (200 IMCU) in 1/4 cup non-chlorinated water 
+  - 2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water
 
 # Sprinkle thermophilic culture on top
 
@@ -42,19 +54,19 @@ format:
 
 - slowly heat the milk up to 46C.
 
-# Let the curds settle for 5 mins
+# Take off heat and let the curds settle for 5 mins
 
 - line a 165mm cheese mold with loose weave cheese cloth and place it inside a colander in a bowl (if you want to reserve the whey)
 
 # Pour whey through the mold
 
-# Put follower on curds and pull cheese cloth to get out wrinkles
+# Put follower on curds and pull on cheese cloth to get out wrinkles
 
 # Press at 11kg (22lb) for 1 hour
 
 # Flip the cheese
 
-- redress the cheese with the cheese cloth when you do this
+- re-dress the cheese with the cheese cloth when you do this
 
 # Press at 22kg for 12 hours
 
@@ -70,6 +82,8 @@ format:
 # Air dry cheese for 2-3 days until touch dry
 
 - cover with cheeese cloth to stop insects.
+- point a fan at the box to speed up drying
+  - this is because I am drying inside a container with cheese cloth as a lid so there is not much air flow.
 
 # Place in ripening box
 
@@ -80,14 +94,15 @@ format:
 
 # After 1 month, flip and wash weekly
 
-- set a calendar event for 1 month
+- set a calendar event for the 1 month point
 
 # After 2 months, turn weekly and brush with soft dry cloth
 
 - or brush with a soft nail brush
+- set a calendar even for the 2 month point
 
 # Once the rind gets to a greyish color, vacuum pack it and keep it in the cheese fridge
 
-- See [Gavin's tasting video](https://youtu.be/TBhIsnzJptU?t=317)
+- See [Gavin's tasting video](https://youtu.be/TBhIsnzJptU?t=317) for an image of what the greyish colour should look like.
 
 # Age to around 6 months
