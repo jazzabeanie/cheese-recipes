@@ -105,4 +105,6 @@ format:
 
 - See [Gavin's tasting video](https://youtu.be/TBhIsnzJptU?t=317) for an image of what the greyish colour should look like.
 
+![TODO: insert image of gruyere rind](./gruyere.png)
+
 # Age to around 6 months
