@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "recipes/saturated_brine.html#ingredients",
-    "href": "recipes/saturated_brine.html#ingredients",
-    "title": "Saturated Brine Solution",
-    "section": "Ingredients",
-    "text": "Ingredients\n\n\n1 fresh raw egg (for testing density)\n2L non-chlorinated water\n450g non-iodised salt (225g/L)\n2T white vinegar (I assume normal strength)\n1t (5ml) calcium chloride solution"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
-    "href": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
-    "title": "Saturated Brine Solution",
-    "section": "Put the water into a saucepan",
-    "text": "Put the water into a saucepan\n\ncan warm the water to help the salt disolve"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#add-the-egg",
-    "href": "recipes/saturated_brine.html#add-the-egg",
-    "title": "Saturated Brine Solution",
-    "section": "Add the egg",
-    "text": "Add the egg"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
-    "href": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
-    "title": "Saturated Brine Solution",
-    "section": "Add the salt (non-iodised) until the egg floats",
-    "text": "Add the salt (non-iodised) until the egg floats\n\nAdd more salt if you want it more salty"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
-    "href": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
-    "title": "Saturated Brine Solution",
-    "section": "move the brine to a container and allow to cool",
-    "text": "move the brine to a container and allow to cool\n\nget out the calcium chloride, vinegar, teaspoon, and tablespoon"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
-    "href": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
-    "title": "Saturated Brine Solution",
-    "section": "Stir in 1t calcium chloride (5ml)",
-    "text": "Stir in 1t calcium chloride (5ml)"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#stir-in-2t-vinegar",
-    "href": "recipes/saturated_brine.html#stir-in-2t-vinegar",
-    "title": "Saturated Brine Solution",
-    "section": "Stir in 2T vinegar",
-    "text": "Stir in 2T vinegar"
-  },
-  {
-    "objectID": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
-    "href": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
-    "title": "Saturated Brine Solution",
-    "section": "Store in cheese cave or fridge",
-    "text": "Store in cheese cave or fridge"
-  },
-  {
     "objectID": "recipes/cantal.html#ingredients",
     "href": "recipes/cantal.html#ingredients",
     "title": "Cantal",
@@ -201,6 +145,62 @@
     "title": "Cheese-recipes",
     "section": "",
     "text": "Cantal\nGouda\nSaturated Brine Solution"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#ingredients",
+    "href": "recipes/saturated_brine.html#ingredients",
+    "title": "Saturated Brine Solution",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n\n1 fresh raw egg (for testing density)\n2L non-chlorinated water\n450g non-iodised salt (225g/L)\n2T white vinegar (I assume normal strength)\n1t (5ml) calcium chloride solution"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
+    "href": "recipes/saturated_brine.html#put-the-water-into-a-saucepan",
+    "title": "Saturated Brine Solution",
+    "section": "Put the water into a saucepan",
+    "text": "Put the water into a saucepan\n\ncan warm the water to help the salt disolve"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#add-the-egg",
+    "href": "recipes/saturated_brine.html#add-the-egg",
+    "title": "Saturated Brine Solution",
+    "section": "Add the egg",
+    "text": "Add the egg"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
+    "href": "recipes/saturated_brine.html#add-the-salt-non-iodised-until-the-egg-floats",
+    "title": "Saturated Brine Solution",
+    "section": "Add the salt (non-iodised) until the egg floats",
+    "text": "Add the salt (non-iodised) until the egg floats\n\nAdd more salt if you want it more salty"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
+    "href": "recipes/saturated_brine.html#move-the-brine-to-a-container-and-allow-to-cool",
+    "title": "Saturated Brine Solution",
+    "section": "move the brine to a container and allow to cool",
+    "text": "move the brine to a container and allow to cool\n\nget out the calcium chloride, vinegar, teaspoon, and tablespoon"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
+    "href": "recipes/saturated_brine.html#stir-in-1t-calcium-chloride-5ml",
+    "title": "Saturated Brine Solution",
+    "section": "Stir in 1t calcium chloride (5ml)",
+    "text": "Stir in 1t calcium chloride (5ml)"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#stir-in-2t-vinegar",
+    "href": "recipes/saturated_brine.html#stir-in-2t-vinegar",
+    "title": "Saturated Brine Solution",
+    "section": "Stir in 2T vinegar",
+    "text": "Stir in 2T vinegar"
+  },
+  {
+    "objectID": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
+    "href": "recipes/saturated_brine.html#store-in-cheese-cave-or-fridge",
+    "title": "Saturated Brine Solution",
+    "section": "Store in cheese cave or fridge",
+    "text": "Store in cheese cave or fridge"
   },
   {
     "objectID": "recipes/gouda.html#ingredients",
