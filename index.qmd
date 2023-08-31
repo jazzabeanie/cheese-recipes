@@ -6,3 +6,4 @@ title: "Cheese-recipes"
 - [Cantal](./recipes/cantal.qmd)
 - [Gouda](./recipes/gouda.qmd)
 - [Saturated Brine Solution](./recipes/saturated_brine.qmd)
+- [Belper Knolle](./recipes/belper_knolle.qmd)
