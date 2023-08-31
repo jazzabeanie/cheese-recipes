@@ -22,13 +22,22 @@ format:
 - 2.5ml (1/2 t) liquid rennet (200 IMCU) in 1/4 cup non-chlorinated water 
 - saturated brine solution
 
+# If using rennet tablets, put them in water to dissolve
+
+- they take 45 mins
+- 3 x 60 IMCU tablets
+
 # Heat milk to 32C
 
 - measure out:
   - 2.5ml (1/2 t) liquid rennet (200 IMCU) in 1/4 cup non-chlorinated water 
   - 2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water
+- 10 mins active
 
 # Sprinkle thermophilic culture on top
+
+- 1/4 teaspoon (tad) thermophilic culture (MOT92)
+- can use yoghurt of kifir instead?
 
 # Leave for 5 mins
 
@@ -39,6 +48,8 @@ format:
 # Let sit for 10 mins
 
 # Add calcium chloride
+
+- 2.5ml (1/2 t) calcium chloride in 1/4 cup non-chlorinated water
 
 # Add rennet and stir for 1 min
 
