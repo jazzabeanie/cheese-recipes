@@ -382,7 +382,7 @@
     "href": "index.html",
     "title": "Cheese-recipes",
     "section": "",
-    "text": "Gruyere\nCantal\nGouda\nSaturated Brine Solution\nBelper Knolle"
+    "text": "Gruyere\nCantal\nGouda\nSaturated Brine Solution\nBelper Knolle\nTomme"
   },
   {
     "objectID": "recipes/tomme.html#ingredients",
@@ -434,39 +434,32 @@
     "text": "stir in calcium chloride\n\n2ml in 60ml water\nor, 0.75ml in 60ml for 3L"
   },
   {
-    "objectID": "recipes/tomme.html#add-rennet-and-stir-for-1-minutes",
-    "href": "recipes/tomme.html#add-rennet-and-stir-for-1-minutes",
-    "title": "Gouda",
-    "section": "add rennet and stir for 1 minutes",
-    "text": "add rennet and stir for 1 minutes"
-  },
-  {
     "objectID": "recipes/tomme.html#cover-and-set-for-1-hour-at-32c",
     "href": "recipes/tomme.html#cover-and-set-for-1-hour-at-32c",
     "title": "Gouda",
     "section": "cover and set for 1 hour at 32C",
-    "text": "cover and set for 1 hour at 32C"
+    "text": "cover and set for 1 hour at 32C\n\nMagimix set to 33C, speed 1"
   },
   {
     "objectID": "recipes/tomme.html#stir-in-rennet-for-1-minute",
     "href": "recipes/tomme.html#stir-in-rennet-for-1-minute",
     "title": "Gouda",
     "section": "Stir in rennet for 1 minute",
-    "text": "Stir in rennet for 1 minute"
+    "text": "Stir in rennet for 1 minute\n\nset magimix to speed 5, 1 minute, and add rennet"
   },
   {
     "objectID": "recipes/tomme.html#incubate-for-1-hour",
     "href": "recipes/tomme.html#incubate-for-1-hour",
     "title": "Gouda",
     "section": "incubate for 1 hour",
-    "text": "incubate for 1 hour\n\nor until clean break"
+    "text": "incubate for 1 hour\n\nor until clean break\nmagimix set to 33C"
   },
   {
     "objectID": "recipes/tomme.html#cut-the-curds-to-size-of-lentil",
     "href": "recipes/tomme.html#cut-the-curds-to-size-of-lentil",
     "title": "Gouda",
     "section": "cut the curds to size of lentil",
-    "text": "cut the curds to size of lentil\n\nwisk like crazy with a wire whisk for 1-2 mins\nstir the curds to check that there are no large pieces"
+    "text": "cut the curds to size of lentil\n\nwisk like crazy with a wire whisk for 1-2 mins\nstir the curds to check that there are no large pieces\nMagimix:\n\ncut curd roughly, then turn on magimix to speed 3, 44C for 30 mins"
   },
   {
     "objectID": "recipes/tomme.html#cook-the-curds-to-43c-while-stiring",
