@@ -23,10 +23,10 @@ format:
 
 ## Ingredients (3L version)
 
-- 3L full creatm non-homogenised milke
+- 3L full cream non-homogenised milk
 - or 40ml active kefir
 - 0.75ml calcium chloride in 30ml cup non-chlorinated water
-- double dose of rennet
+- double dose of rennt
 - salt
 - wire whisk
 - ladle
@@ -39,7 +39,7 @@ format:
 ## heat milk to 32C
 
 - dissolve rennet tablets in water (double dose according to packet)
-- prepare calcium chloride (2ml in 60ml, or 0.78 in 30ml for 3L)
+- prepare calcium chloride (2ml in 60ml, or 0.75ml in 30ml for 3L)
 
 ## add culture
 
