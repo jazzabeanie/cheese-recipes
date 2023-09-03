@@ -1,1 +1,1 @@
-Sitemap: https://jazzabeanie.github.io/cheese-recipes/sitemap.xml
+Sitemap: https://jazzabeanie.github.io/recipe-slides/sitemap.xml
