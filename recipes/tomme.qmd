@@ -53,20 +53,25 @@ format:
 - 2ml in 60ml water
 - or, 0.75ml in 60ml for 3L
 
-## add rennet and stir for 1 minutes
-
 ## cover and set for 1 hour at 32C
 
+- Magimix set to 33C, speed 1
+
 ## Stir in rennet for 1 minute
+
+- set magimix to speed 5, 1 minute, and add rennet
 
 ## incubate for 1 hour
 
 - or until clean break
+- magimix set to 33C
 
 ## cut the curds to size of lentil
 
 - wisk like crazy with a wire whisk for 1-2 mins
 - stir the curds to check that there are no large pieces
+- Magimix:
+  - cut curd roughly, then turn on magimix to speed 3, 44C for 30 mins
 
 ## cook the curds to 43C while stiring
  
