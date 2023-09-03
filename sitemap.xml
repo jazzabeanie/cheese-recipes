@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/saturated_brine.html</loc>
-    <lastmod>2023-08-31T22:41:33.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/belper_knolle.html</loc>
-    <lastmod>2023-08-31T22:41:32.887Z</lastmod>
+    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/gruyere.html</loc>
+    <lastmod>2023-09-03T01:34:51.430Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/cantal.html</loc>
-    <lastmod>2023-08-31T22:41:32.259Z</lastmod>
+    <lastmod>2023-09-03T01:34:50.588Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/belper_knolle.html</loc>
+    <lastmod>2023-09-03T01:34:49.836Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/cheese-recipes/about.html</loc>
-    <lastmod>2023-08-31T22:41:31.671Z</lastmod>
+    <lastmod>2023-09-03T01:34:48.668Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/cheese-recipes/index.html</loc>
-    <lastmod>2023-08-31T22:41:31.931Z</lastmod>
+    <lastmod>2023-09-03T01:34:48.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/tomme.html</loc>
+    <lastmod>2023-09-03T01:34:49.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/saturated_brine.html</loc>
+    <lastmod>2023-09-03T01:34:50.200Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/gouda.html</loc>
-    <lastmod>2023-08-31T22:41:32.587Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jazzabeanie.github.io/cheese-recipes/recipes/gruyere.html</loc>
-    <lastmod>2023-08-31T22:41:33.223Z</lastmod>
+    <lastmod>2023-09-03T01:34:50.990Z</lastmod>
   </url>
 </urlset>
