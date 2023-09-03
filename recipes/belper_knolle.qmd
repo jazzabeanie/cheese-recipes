@@ -11,7 +11,7 @@ format:
 ::: {style="font-size:0.7em"}
 
 - 4L full cream pasteuirzed milk
-- 1/8 t of Flora Danica or Sacco MO36R
+- 1/8 t of Flora Danica (aromatic mesophilic culture) or Sacco MO36R
 - 0.75ml  (1/8 t) calcium chloride in 1/4 cup non-chlorinated water
 - 6 drops single strength linquid rennet in 1 T of non-chlorinated water (standard dose?)
 - 3 T kosher salt
