@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/gruyere.html</loc>
-    <lastmod>2024-01-12T23:59:15.392Z</lastmod>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/chaource.html</loc>
+    <lastmod>2024-01-13T00:51:22.285Z</lastmod>
   </url>
   <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/cantal.html</loc>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/gouda.html</loc>
     <lastmod>2024-01-12T23:59:15.390Z</lastmod>
   </url>
   <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/belper_knolle.html</loc>
-    <lastmod>2024-01-12T23:59:15.389Z</lastmod>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/saturated_brine.html</loc>
+    <lastmod>2024-01-12T23:59:15.393Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/recipe-slides/recipes/tomme.html</loc>
@@ -18,22 +18,22 @@
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/recipe-slides/index.html</loc>
-    <lastmod>2024-01-12T23:59:15.389Z</lastmod>
+    <lastmod>2024-01-13T00:52:00.530Z</lastmod>
   </url>
   <url>
     <loc>https://jazzabeanie.github.io/recipe-slides/about.html</loc>
     <lastmod>2024-01-12T23:59:15.389Z</lastmod>
   </url>
   <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/chaoruce.html</loc>
-    <lastmod>2024-01-13T00:42:12.074Z</lastmod>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/belper_knolle.html</loc>
+    <lastmod>2024-01-12T23:59:15.389Z</lastmod>
   </url>
   <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/saturated_brine.html</loc>
-    <lastmod>2024-01-12T23:59:15.393Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/gouda.html</loc>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/cantal.html</loc>
     <lastmod>2024-01-12T23:59:15.390Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jazzabeanie.github.io/recipe-slides/recipes/gruyere.html</loc>
+    <lastmod>2024-01-12T23:59:15.392Z</lastmod>
   </url>
 </urlset>
