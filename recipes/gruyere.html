@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.433">
+  <meta name="generator" content="quarto-1.4.542">
 
   <meta name="author" content="Gavin Webber - https://youtu.be/Oi2y4Ymrd5A">
   <title>Recipes-slides - Gruyere</title>
@@ -156,7 +156,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -538,8 +539,10 @@ Gavin Webber - <a href="https://youtu.be/Oi2y4Ymrd5A">https://youtu.be/Oi2y4Ymrd
 <section id="age-to-around-6-months" class="title-slide slide level1 center">
 <h1>Age to around 6 months</h1>
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
+</div>
 </div>
 </section>
     </div>
@@ -568,7 +571,6 @@ Gavin Webber - <a href="https://youtu.be/Oi2y4Ymrd5A">https://youtu.be/Oi2y4Ymrd
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -829,10 +831,9 @@ Gavin Webber - <a href="https://youtu.be/Oi2y4Ymrd5A">https://youtu.be/Oi2y4Ymrd
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -842,8 +843,17 @@ Gavin Webber - <a href="https://youtu.be/Oi2y4Ymrd5A">https://youtu.be/Oi2y4Ymrd
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
