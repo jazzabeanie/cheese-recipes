@@ -18,12 +18,8 @@ format:
 - 2 drops single strength linquid rennet in 1 T of non-chlorinated water (standard dose?)
 - non-iodised salt
 - ?
-- cheese box
-- colander
-- tight weave cheese cloth (for hanging)
-- loose weave cheese cloth (for keeping off insects)
-- large bowl for whey
-- large bowl for mixing in salt
+- cheese box with draining mat
+- 
 
 :::
 
@@ -91,3 +87,7 @@ format:
 ## Age at 10-13C for 2 weeks.
 
 - turn at least daily (to stop mold sticking to the mat) and drain any whey
+
+## Store in micro perforated wrap and store in the frige
+
+- It will keep for about 2 more weeks.
