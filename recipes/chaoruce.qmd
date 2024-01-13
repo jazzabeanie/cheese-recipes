@@ -1,0 +1,91 @@
+---
+title: "Chaoruce"
+author: "Gavin Webber"
+format: 
+  revealjs:
+    incremental: false
+---
+
+## Ingredients
+
+::: {style="font-size:0.7em"}
+
+- 4L full cream pasteuirzed milk
+- 1/8 t of aromatic mesophilic culture
+- 1/32 t of penicilium candidum
+- 1/32 t of geotrichum candidum 15
+- 1.25ml (1/4 t) calcium chloride in 1/4 cup non-chlorinated water
+- 2 drops single strength linquid rennet in 1 T of non-chlorinated water (standard dose?)
+- non-iodised salt
+- ?
+- cheese box
+- colander
+- tight weave cheese cloth (for hanging)
+- loose weave cheese cloth (for keeping off insects)
+- large bowl for whey
+- large bowl for mixing in salt
+
+:::
+
+## Heat milk (25C)
+
+- mix:
+  - 1.25ml (1/4 t) calcium chloride in 1/4 cup non-chlorinated water
+  - 2 drops single strength linquid rennet in 1 T of non-chlorinated water (standard dose?)
+
+## Add 1/8 t of aromatic mesophilic culture
+
+## Add molds
+
+- 1/32 t of penicilium candidum
+- 1/32 t of geotrichum candidum 15
+
+## Allow to rehydrate for 5 mins
+
+## Stir and add calcium chloride
+
+## Add rennet and stir for 1 min
+
+## Allow to set for 12 hours
+
+- At the end there should be 1cm or half an inch of whey on the surface
+- curds should also have pulled away from the edge of the pot
+
+## Place 4 small baskets on a mat, on a board
+
+## ladel off the whey
+
+## Scoop the curds into the baskets with a slotted spoon
+
+- keep going until all the curds have been used. May take around an hour for the curds to settle enough to fit everything in.
+
+## Allow to drain overnight
+
+- for this step and all following the cheese is always rested in the cheese cave
+
+## flip the cheeses and put them back into their baskets
+
+## drain for 24 more hours
+
+## flip the cheeses again and put them back into their baskets
+
+## salt the top of the cheese with 1/4 t of salt per cheese
+
+## flip the cheeses and put them back into their baskets
+
+## salt the top of the cheese again with 1/4 t of salt per cheese
+
+## Allow to rest for 1 hour
+
+## clean the mat, place it into a ripening box
+
+## remove the cheese from the basekts and put into the ripening box
+
+- Also add some moisutre absorbents
+  - I have added this step because Gav doesn't cover the box and agest on the counter, but I suspect it is too hot here to do that.
+
+## the next day, drain the whey and flip the cheese
+
+## Age at 10-13C for 2 weeks.
+
+- turn at least daily (to stop mold sticking to the mat) and drain any whey
