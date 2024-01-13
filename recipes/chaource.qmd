@@ -1,5 +1,5 @@
 ---
-title: "Chaoruce"
+title: "Chaource"
 author: "Gavin Webber"
 format: 
   revealjs:
@@ -17,9 +17,7 @@ format:
 - 1.25ml (1/4 t) calcium chloride in 1/4 cup non-chlorinated water
 - 2 drops single strength linquid rennet in 1 T of non-chlorinated water (standard dose?)
 - non-iodised salt
-- ?
 - cheese box with draining mat
-- 
 
 :::
 

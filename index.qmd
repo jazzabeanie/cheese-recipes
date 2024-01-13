@@ -8,3 +8,4 @@ title: "Cheese-recipes"
 - [Saturated Brine Solution](./recipes/saturated_brine.qmd)
 - [Belper Knolle](./recipes/belper_knolle.qmd)
 - [Tomme](./recipes/tomme.qmd)
+- [Chaource]()
