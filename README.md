@@ -1,5 +1,9 @@
 # Cheese Recipes
 
+## TODO
+
+Add google analytics code for Caveman Escapades to the header of the template for all pages.
+
 ## Setup
 
 - Install Quarto
