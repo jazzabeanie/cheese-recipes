@@ -71,6 +71,8 @@ format:
 
 ## salt the top of the cheese with 1/4 t of salt per cheese
 
+## Allow to rest for 1 hour
+
 ## flip the cheeses and put them back into their baskets
 
 ## salt the top of the cheese again with 1/4 t of salt per cheese
